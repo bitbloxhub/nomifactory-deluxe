@@ -1,0 +1,21 @@
+import scripts.CommonVars.makeExtremeRecipe9 as makeExtremeRecipe9;
+
+makeExtremeRecipe9(<gregtech:meta_item_1:32009>,
+    ["IBAHDHABI",
+     "BAHDEDHAB",
+     "AHDEFEDHA",
+     "HDEFGFEDH",
+     "DEFGCGFED",
+     "HDEFGFEDH",
+     "AHDEFEDHA",
+     "BAHDEDHAB",
+     "IBAHDHABI"],
+    { A : <avaritia:resource:5>,
+      B : <avaritia:resource:5>,
+      C : <avaritia:resource:5>,
+      D : <gregtech:machine:1010>,
+      E : <gregtech:machine:1011>,
+      F : <gregtech:machine:1012>,
+      G : <gregtech:machine:1013>,
+      H : <gregtech:machine:806>,
+      I : <minecraft:dragon_egg> });
