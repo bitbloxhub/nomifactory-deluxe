@@ -1,4 +1,5 @@
 # nomifactory deluxe
+![Logo](top.png)
 based on nomifactory 1.2.2.1
 
 ## installation
