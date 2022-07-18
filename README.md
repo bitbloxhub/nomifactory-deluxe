@@ -1,6 +1,6 @@
 # nomifactory deluxe
 ![Logo](top.png)
-based on nomifactory 1.2.2.1
+based on nomifactory 1.2.2.1 for java edition aka real minecraft
 
 ## installation
 - install nomifactory 1.2.2.1
