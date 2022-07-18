@@ -10,6 +10,7 @@ based on nomifactory 1.2.2.1
 - launch minecraft and then close it
 - replace opencomputers/settings.conf with opencomputers.conf
 - put zzzzDX.zs into the scripts folder of the config folders parent
+- replace resources/minecraft/textures/gui/title/top.png in the config folders parent with top.png
 
 
 ## modlist
